@@ -6,17 +6,17 @@
 
 #### FINDINGS:
 
-"Publication manual of the American Psychological Association,6th edition" 
+ * "Publication manual of the American Psychological Association,6th edition" 
 
-"The 5 Love languages:The sceret to love that lasts" 
+ * "The 5 Love languages:The sceret to love that lasts" 
 
-"StrengthsFinder2.0"  is the top 3 selling books in the genre "Non fiction".
+ * "StrengthsFinder2.0"  is the top 3 selling books in the genre "Non fiction".
 
-"Oh the Places You'll Go!
+ * "Oh the Places You'll Go!
 
-"The very hungry caterpillar"
+ * "The very hungry caterpillar"
 
-"Giraffes can't dance" is the top 3 selling books in the genre "Fiction".
+ * "Giraffes can't dance" is the top 3 selling books in the genre "Fiction".
 
 The average price of books have been decreasing overtime. There was a decline in pricing for fiction in 2010 and non fiction i 2015.
 
